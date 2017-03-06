@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SWJTurbineReports:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SWJTurbineReports_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SWJTurbineReports.jar">
+        <element id="module-output" name="SWJTurbineReports" />
+      </element>
+      <element id="library" level="project" name="sqljdbc42" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/dengeltd/app.config" />
+    </root>
+  </artifact>
+</component>
